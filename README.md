@@ -8,3 +8,19 @@ Platform | Version
 -------- | -------
 Windows | 64-bit
 WebGL | Microsoft Edge
+
+## Controls
+
+Controls are as follows:
+
+Key | Usage
+--- | -----
+W | Forward
+S | Backward
+A | Left
+D | Right
+Q | Previous weapon
+E | Next weapon
+U | Use MedPack (+10 HP)
+H | Use Potion (100 HP)
+Esc | Pause
