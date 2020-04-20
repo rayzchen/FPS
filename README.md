@@ -22,5 +22,5 @@ D | Right
 Q | Previous weapon
 E | Next weapon
 U | Use MedPack (+10 HP)
-H | Use Potion (100 HP)
+H | Use Potion (Restore HP)
 Esc | Pause
