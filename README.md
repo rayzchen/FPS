@@ -7,7 +7,7 @@ This FPS game was designed by [Ray Chen](https://github.com/rayzchen) and was ma
 Platform | Version
 -------- | -------
 Windows | 64-bit
-WebGL | Microsoft Edge
+WebGL | Various browsers
 
 ## Controls
 
