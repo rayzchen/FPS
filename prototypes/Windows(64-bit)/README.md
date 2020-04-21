@@ -1,4 +1,4 @@
-# Prototype EXE builds
+# Prototype Windows (64-bit) builds
 
 For Windows 64-bit standalone.
 
