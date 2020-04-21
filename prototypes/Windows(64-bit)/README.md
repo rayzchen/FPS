@@ -6,3 +6,9 @@ For Windows 64-bit standalone.
 
 - [ ] Add Universal Windows builds
 - [ ] Add MacOS builds
+
+## Changelog (as of EXE 5)
+
+Version | Changes
+------- | -------
+EXE 5 | Added scoping, running and sniper
