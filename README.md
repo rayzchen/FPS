@@ -19,6 +19,9 @@ W | Forward
 S | Backward
 A | Left
 D | Right
+Left click | Shoot
+Right Click | Scope in
+Left Shift | Run
 Q | Previous weapon
 E | Next weapon
 U | Use MedPack (+10 HP)
