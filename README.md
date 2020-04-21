@@ -9,6 +9,10 @@ Platform | Version
 Windows | 64-bit
 WebGL | Various browsers
 
+## Contact
+
+If you would like to contact me, email me on tankimarshal2@gmail.com.
+
 ## Controls
 
 Controls are as follows:
