@@ -14,7 +14,7 @@ Download your preferred version, then extract it in your file manager (or with a
 
 ## Notes
 
-If you'd like me to add Linux only, or Mac only builds, give me a heads up by sending be an email. Otherwise I've started it on EXE 7.
+If you'd like me to add Linux only, or Mac only builds, give me a heads up by sending be an email. Otherwise I've made one for MacOS on EXE 7.
 
 ## Supported platforms
 
