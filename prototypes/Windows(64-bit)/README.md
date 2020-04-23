@@ -11,3 +11,5 @@ For Windows 64-bit standalone.
 Version | Changes
 ------- | -------
 EXE 5 | Added scoping, running and sniper
+EXE 6 | Added settings
+EXE 7 | Added more textures and fixed sniper bugs
