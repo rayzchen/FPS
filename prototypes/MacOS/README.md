@@ -7,3 +7,4 @@ For Mac OS X standalone.
 Version | Changes
 ------- | -------
 EXE 7 | Added more textures and fixed sniper bugs
+EXE 8 | Added Level 4 and background music
