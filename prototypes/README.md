@@ -1,6 +1,6 @@
 # Prototypes
 
-The prototypes of the game are above. Select [EXE](https://github.com/rayzchen/FPS/tree/master/prototypes/Windows(64-bit)) for Windows standalone (64-bit only), [MacOS](https://github.com/rayzchen/FPS/tree/master/prototypes/MacOS) for Mac OS X, [Linux](https://github.com/rayzchen/FPS/tree/master/prototypes/Linux) for Linux x86_64 (64-bit) and [WebGL](https://github.com/rayzchen/FPS/tree/master/prototypes/WebGL) for WebGL (various browsers).
+The prototypes of the game are above. Select [Windows(64-bit)](https://github.com/rayzchen/FPS/tree/master/prototypes/Windows(64-bit)) for Windows standalone (64-bit only), [MacOS](https://github.com/rayzchen/FPS/tree/master/prototypes/MacOS) for Mac OS X, [Linux](https://github.com/rayzchen/FPS/tree/master/prototypes/Linux) for Linux x86_64 (64-bit) and [WebGL](https://github.com/rayzchen/FPS/tree/master/prototypes/WebGL) for WebGL (various browsers).
 
 ## Todo
 - [x] Add MacOS support
