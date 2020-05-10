@@ -8,3 +8,4 @@ Version | Changes
 ------- | -------
 EXE 7 | Added more textures and fixed sniper bugs
 EXE 8 | Added Level 4 and background music
+v9 | Added a dialog box when exiting to menu,<br>recoil on the guns, better movement<br>and consistent music with audio settings.
