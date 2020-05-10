@@ -10,4 +10,4 @@ The prototypes of the game are above. Select [Windows(64-bit)](https://github.co
 
 ## Notes
 
-WebGL builds take a long time to build, so there aren't many of them. MacOS and Linux builds are coming, but only for full releases. This game is still in the prototype stage.
+WebGL builds take a long time to build, so there aren't many of them. MacOS and Linux builds are out, but may only continue for full releases. This game is still in the prototype stage.
